@@ -21,11 +21,11 @@ Inference examples can be found in the notebook [inference_examples](https://git
 
 Example 1 (validation data):
 <div align="left">
-  <img src="assets/inference_example_1.png" width="400" />
+  <img src="assets/inference_example_1.png" width="1000" />
 </div>
 
 Example 2 (validation data):
 <div align="left">
-  <img src="assets/inference_example_2.png" width="400" />
+  <img src="assets/inference_example_2.png" width="1000" />
 </div>
 
