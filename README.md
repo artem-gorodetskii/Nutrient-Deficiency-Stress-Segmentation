@@ -1,6 +1,6 @@
 # Nutrient-Deficiency-Stress-Segmentation
 
-This repository contains an implementation of a Unet-based model for segmentation of Nutrient Deficiency Stress (see [paper](https://arxiv.org/abs/2012.09654)).
+This repository contains an implementation of a UNet-based model for segmentation of Nutrient Deficiency Stress (see [paper](https://arxiv.org/abs/2012.09654)).
 
 ### Dataset
 The dataset is available at the [link](https://registry.opendata.aws/intelinair_longitudinal_nutrient_deficiency/).
