@@ -11,7 +11,7 @@ The model is based on custom UNet architecture (see [model.py](https://github.co
 The model was trained using Google Colab, all outputs can be found in the [colab_notebook](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/colab_notebook.ipynb). The pretrained model is avalible in the "pretrained" directory.
 
 ### Evaluation
-The dataset containing 386 flights was randonly separated on 328 train and 58 validation flights. The model was trained for only 26 epochs (see [train.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/train.py) and [config.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/config.py) for detail). 
+The dataset containing 386 flights was randomly separated on 328 train and 58 validation flights. The model was trained for only 26 epochs (see [train.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/train.py) and [config.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/config.py) for detail). 
 
 The evalutaion results on validation data:
 <div align="left">
