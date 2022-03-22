@@ -13,5 +13,5 @@ The dataset containing 386 flights was randonly separated on 328 train and 58 va
 
 The evalutaion results on validation data:
 <div align="center">
-  <img src="assets/evaluation.png" width="400" />
+  <img src="assets/evaluation.png" width="100" />
 </div>
