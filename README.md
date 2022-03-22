@@ -6,7 +6,7 @@ This repository contains an implementation of a UNet-based model for segmentatio
 The dataset is available at the [link](https://registry.opendata.aws/intelinair_longitudinal_nutrient_deficiency/).
 
 ### Model
-The model is based on custom UNet architecture (see [model.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/model.py)). Input to the model represents a combination of three RGB images.
+The model is based on custom UNet architecture (see [model.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/model.py)). The input to the model represents a combination of three RGB images.
 
 The model was trained using Google Colab, all outputs can be found in the [colab_notebook](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/colab_notebook.ipynb). The pretrained model is avalible in the "pretrained" directory.
 
