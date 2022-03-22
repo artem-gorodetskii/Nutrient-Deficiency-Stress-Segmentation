@@ -8,6 +8,8 @@ The dataset is available at the [link](https://registry.opendata.aws/intelinair_
 ### Model
 The model is based on custom UNet architecture (see [model.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/model.py)). Input to the model represents a combination of three RGB images.
 
+The model was trained using Goofle Colab, all outputs can be found in the [colab_notebook](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/colab_notebook.ipynb). The pretrained model is avalible in the "pretrained" directory.
+
 ### Evaluation
 The dataset containing 386 flights was randonly separated on 328 train and 58 validation flights. The model was trained for only 26 epochs (see [train.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/train.py) and [config.py](https://github.com/artem-gorodetskii/Nutrient-Deficiency-Stress-Segmentation/blob/master/config.py) for detail). 
 
